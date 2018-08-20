@@ -600,3 +600,7 @@ a {
   width: 49%;
   margin-left: 25%;
 }
+.img-fixed{
+  width: 270px !important;
+  height: 311px !important;
+}

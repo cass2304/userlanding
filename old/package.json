@@ -1,0 +1,23 @@
+{
+  "name": "userlanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cass2304/userlanding.git"
+  },
+  "author": "Kenneth Riveiro <kalcuadrado@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cass2304/userlanding/issues"
+  },
+  "homepage": "https://github.com/cass2304/userlanding#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
